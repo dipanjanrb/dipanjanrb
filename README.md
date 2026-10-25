@@ -1,29 +1,31 @@
 # Hi there, I'm Dipanjan 👋
-### Senior DevOps & Cloud Infrastructure Engineer | 19+ Years IT | 7+ Years DevOps / SRE
+### Senior DevOps & Cloud Infrastructure Engineer | 19+ Years IT | 7+ Years DevOps / Cloud / SRE
 
-Seasoned IT Professional with over 19 years in enterprise systems engineering and infrastructure management, specializing in **Cloud Architecture, Kubernetes Platform Engineering, Infrastructure-as-Code (IaC), CI/CD Automation, Configuration Management, and SRE** for the past 7 years. Proven track record of architecting highly available, secure, and cost-optimized multi-cloud environments.
+Seasoned IT Professional with over 19 years in enterprise systems engineering and infrastructure management, specializing in **Microsoft Azure & AWS Cloud Architecture, Terraform Infrastructure as Code (IaC), CI/CD Pipelines (Azure DevOps YAML & Classic, GitHub Actions), Kubernetes Platform Engineering, and SRE** for the past 7 years. Proven track record of architecting highly available, secure, and cost-optimized multi-cloud environments.
 
 ---
 
 ### 💼 Executive Summary
-- 🔭 **Focus Areas:** Cloud-Native Architecture, Platform Engineering, DevSecOps Governance, Site Reliability Engineering.
-- ☁️ **Cloud Platforms:** AWS (Primary), Hybrid Multi-Cloud, Multi-AZ & Multi-Region architectures.
-- 🛠️ **IaC & Automation:** Terraform, Terragrunt, Ansible, CloudFormation.
-- ☸️ **Containers & Orchestration:** Kubernetes (EKS), Docker, Helm, ArgoCD (GitOps), Kustomize.
-- 🚀 **CI/CD & Security:** GitHub Actions, GitLab CI, Aqua Trivy, SonarQube, Checkov, HashiCorp Vault.
-- 📊 **Observability & SRE:** Prometheus, Grafana, OpenTelemetry, Alertmanager, SLO/SLI Burn-Rate Monitoring.
+- 🔭 **Focus Areas:** Cloud Platform Engineering, Infrastructure as Code (IaC), DevSecOps, Continuous Delivery Pipelines, Site Reliability Engineering.
+- ☁️ **Cloud Platforms:** **Microsoft Azure** (Landing Zones, VNets, AKS, Key Vault, Resource Management) & **AWS** (EKS, VPC, IAM, KMS).
+- 🛠️ **Terraform & Automation:** **Terraform** (Parent-Child Modular Architecture, Remote State Management, Drift Detection), Terragrunt, Ansible.
+- 🚀 **CI/CD Pipelines:** **Azure DevOps Pipelines (Multi-Stage YAML & Classic Release Pipelines)**, GitHub Actions, GitLab CI.
+- ☸️ **Containers & Orchestration:** Kubernetes (AKS, EKS), Docker, Helm, ArgoCD (GitOps), Kustomize.
+- 🛡️ **DevSecOps & Governance:** Aqua Trivy, Checkov, SonarQube, Azure Policy, HashiCorp Vault.
+- 📊 **Observability & SRE:** Prometheus, Grafana, OpenTelemetry, Alertmanager, Azure Monitor.
 
 ---
 
 ### 🛠️ Core Competencies & Tech Stack
 
-| Domain | Technologies |
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Cloud Providers** | AWS (EKS, VPC, RDS, IAM, KMS, S3, Route53, ALB/NLB) |
-| **IaC & Automation** | Terraform, Ansible, Terragrunt, Packer |
-| **Containers & GitOps** | Docker, Kubernetes, Helm, ArgoCD, Kustomize |
-| **CI/CD & DevSecOps** | GitHub Actions, Aqua Trivy, Checkov, SAST/DAST |
-| **Observability & SRE** | Prometheus, Grafana, OpenTelemetry, Alertmanager |
+| **Cloud Providers** | **Microsoft Azure** (VNets, Subnets, AKS, Key Vault, NSGs, Resource Groups), **AWS** (EKS, VPC, RDS, IAM, KMS) |
+| **IaC & Automation** | **Terraform** (Parent-Child Modules, State Locking), Ansible, Terragrunt, Packer |
+| **CI/CD Pipelines** | **Azure DevOps (Multi-Stage YAML Pipelines & Classic Release Pipelines)**, GitHub Actions, GitLab CI |
+| **Containers & GitOps** | Kubernetes (AKS, EKS), Docker, Helm, ArgoCD, Kustomize |
+| **DevSecOps & Security** | Aqua Trivy, Checkov, SonarQube, Azure Policy, Microsoft Entra ID |
+| **Observability & SRE** | Prometheus, Grafana, OpenTelemetry, Alertmanager, Azure Monitor |
 | **Operating Systems & Scripting** | Linux (RHEL, Ubuntu, CentOS), Bash, Python, PowerShell |
 
 ---
