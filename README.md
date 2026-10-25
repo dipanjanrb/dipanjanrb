@@ -28,27 +28,6 @@ Seasoned IT Professional with over 19 years in enterprise systems engineering an
 
 ---
 
-### 🌟 Featured DevOps & Platform Projects
-
-Below are production-ready reference architectures and platform templates:
-
-1. 🏗️ **[aws-eks-production-terraform](https://github.com/dipanjanrb/aws-eks-production-terraform)**  
-   *Production-grade AWS EKS cluster deployment with Terraform, modular VPC, KMS envelope encryption, and IMDSv2-hardened node groups.*
-
-2. 🔄 **[gitops-kubernetes-platform](https://github.com/dipanjanrb/gitops-kubernetes-platform)**  
-   *Enterprise GitOps repository deploying standard cluster add-ons: Ingress-NGINX, Cert-Manager, Prometheus-Grafana, and microservices with Kustomize.*
-
-3. 🛡️ **[reusable-github-actions-devsecops](https://github.com/dipanjanrb/reusable-github-actions-devsecops)**  
-   *Enterprise reusable GitHub Actions workflows featuring Shift-Left SAST scanning, container vulnerability scans (Trivy), and automated release gates.*
-
-4. 🐧 **[ansible-enterprise-system-hardening](https://github.com/dipanjanrb/ansible-enterprise-system-hardening)**  
-   *CIS Benchmark Level 1 & 2 Linux server hardening with Ansible: SSH security, kernel sysctl tuning, and automated Prometheus node_exporter setup.*
-
-5. 📊 **[sre-observability-as-code](https://github.com/dipanjanrb/sre-observability-as-code)**  
-   *Declarative SRE observability stack: Google SRE multi-window multi-burn-rate alerts, Prometheus rules, OpenTelemetry collector, and incident response runbooks.*
-
----
-
 ### 📬 Connect With Me
 - 💼 **GitHub:** [github.com/dipanjanrb](https://github.com/dipanjanrb)
 - ✉️ **Email:** [dipanjanrb@gmail.com](mailto:dipanjanrb@gmail.com)
